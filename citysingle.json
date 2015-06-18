@@ -1,4 +1,4 @@
-{
+{[
    "id" : "101010100",
    "cityName" : "北京",
    "area":"dong",
@@ -90,5 +90,4 @@
    "area":"dong",
 "cityName" : "北京",
    "area":"dong"
-
-}
+]}
